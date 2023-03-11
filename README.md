@@ -36,7 +36,7 @@ There is 2 files with the infos that are going to be created in case your webhoo
 # 📷 - Some Screens...
 
 **The website look like:**
-<a href="https://imgur.com/2kb3lvt"><img src="https://i.imgur.com/2kb3lvt.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/Mjz7Zgn.png"><img src="https://i.imgur.com/Mjz7Zgn.png" title="source: imgur.com" /></a>
 
 **The embed look like.**
-<a href="https://imgur.com/hSSqnwF"><img src="https://i.imgur.com/hSSqnwF.png" title="source: imgur.com" /></a>
+<a href="https://i.imgur.com/rf8X3Cb.png"><img src="https://i.imgur.com/rf8X3Cb.png" title="source: imgur.com" /></a>
